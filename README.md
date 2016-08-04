@@ -1,5 +1,14 @@
-# jexus
-jexus on ubuntu without  install mono
+# jexus A asp.net webserver in linux
+
+Jexus V5.8.2 Beta1 64位独立版
+ 
+http://linuxdot.net/
+ 
+# How to run
+
+docker run --name=jexus --restart=always -d -p 81:80 jexus
+
+docker run --name=jexus --restart=always -v /data/www/jexus:/data  -d -p 81:80 jexus
 
 docker run --name=jexus --restart=always -v /data/www/jexus:/data  -d -p 81:80 shiningrise/jexus:5.8.2
 
