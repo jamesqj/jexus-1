@@ -9,8 +9,6 @@ RUN  sed -i "s/root=\/ \/var\/www\/default/root=\/ \/data/g" /usr/jexus/siteconf
 VOLUME ["/data"]
 EXPOSE 80 443
 
-#RUN chmod a+x /usr/jexus/jwss
-#CMD /bin/bash 
 #CMD /usr/jexus/jwss 
 #>/tmp/err.txt 2>&1
 CMD /usr/jexus/jws start
