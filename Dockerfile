@@ -1,4 +1,4 @@
-FROM ubuntu:14.04.4
+FROM ubuntu:latest
 #Jexus V5.8.2 Beta1 64位独立版
 MAINTAINER shiningrise shiningrise@gmail.com
 

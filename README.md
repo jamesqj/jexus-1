@@ -1,7 +1,11 @@
 # jexus A asp.net webserver in linux
 
-Jexus V5.8.2 Beta1 64位独立版
+Jexus V5.8.2 Beta1 64位独立版 
+
+镜像大小 232.8 MB
  
+latest Version images size is only 169.6 MB
+
 http://linuxdot.net/
  
 # How to run
