@@ -1,0 +1,1 @@
+docker run --name=jexus --restart=always -v e:/data:/data  -d -p 81:80 jexus

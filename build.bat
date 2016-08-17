@@ -1,1 +1,1 @@
-docker build -t jexus:5.8.2 .
+docker build -t jexus .
